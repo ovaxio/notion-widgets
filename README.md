@@ -1,2 +1,2 @@
-# notion-year-completion
-notion widget for year completion
+# notion-widgets
+widgets for Notion
