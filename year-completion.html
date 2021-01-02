@@ -4,7 +4,9 @@
   <meta charset="utf-8">
   <title>year completion widget</title>
   <script type="text/javascript">
-  document.getElementById('today').innerHTML = new Date().toDateString();
+  let today = new Date().toDateString();
+    console.log(today);
+  document.getElementById('today').innerHTML = today;
   </script>
 </head>
 <body>
