@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>year completion widget</title>
+  <script type="text/javascript">
+  document.getElementById('today').innerHTML = new Date().toDateString();
+  </script>
+</head>
+<body>
+Date du jour: <span id='today'></span>
+</body>
+</html>
